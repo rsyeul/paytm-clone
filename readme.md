@@ -1,5 +1,7 @@
 # Paytm  Clone
-## [Deployed link](https://rahul-paytm-clone.netlify.app) 
+
+## [Deployed link]('https://rahul-paytm-clone.netlify.app/') 
+
 
 ## Mobile responsive website using tailwind css.
 
@@ -12,6 +14,9 @@ Screenshots:
 
 [github link]('https://github.com/rsyeul/paytm-clone.git')
 
-[Deployed link](https://rahul-paytm-clone.netlify.app/) 
+
+[Deployed link]('https://rahul-paytm-clone.netlify.app/') 
+
+
 
 Developed By : **Rahul Yeul**
